@@ -45,3 +45,13 @@
     height:25%;
     background-color: green;
 }
+
+.parent{
+    font-size:30px;
+}
+
+.p{
+    /*font-size: 2rem; rem; taille (font size) définie par le navigateur, 1 rem=16, jamais fixer la taille du fontsize
+em; taille par rapport au parent*/
+
+}
